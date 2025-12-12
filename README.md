@@ -1,2 +1,8 @@
 # git_test
-랭체인 챗봇 실행 폴더
+
+real-agent 경로
+pip install langgraph-cli
+langgraph dev
+
+agent-chat-ui 경로
+pnpm dev
