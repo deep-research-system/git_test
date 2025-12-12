@@ -5,4 +5,5 @@ real-agent 경로
 2. langgraph dev
 
 agent-chat-ui 경로
-pnpm dev
+1. pnpm install
+2. pnpm dev
